@@ -1,0 +1,14 @@
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\bin\Debug\netcoreapp3.1\ValueType_Vs_RefType.exe
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\bin\Debug\netcoreapp3.1\ValueType_Vs_RefType.deps.json
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\bin\Debug\netcoreapp3.1\ValueType_Vs_RefType.runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\bin\Debug\netcoreapp3.1\ValueType_Vs_RefType.runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\bin\Debug\netcoreapp3.1\ValueType_Vs_RefType.dll
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\bin\Debug\netcoreapp3.1\ValueType_Vs_RefType.pdb
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\obj\Debug\netcoreapp3.1\ValueType_Vs_RefType.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\obj\Debug\netcoreapp3.1\ValueType_Vs_RefType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\obj\Debug\netcoreapp3.1\ValueType_Vs_RefType.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\obj\Debug\netcoreapp3.1\ValueType_Vs_RefType.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\obj\Debug\netcoreapp3.1\ValueType_Vs_RefType.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\obj\Debug\netcoreapp3.1\ValueType_Vs_RefType.dll
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\obj\Debug\netcoreapp3.1\ValueType_Vs_RefType.pdb
+D:\Study Material\11th semester\C#\Lab\Code\ValueType_Vs_RefType\ValueType_Vs_RefType\obj\Debug\netcoreapp3.1\ValueType_Vs_RefType.genruntimeconfig.cache
