@@ -1,0 +1,10 @@
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\obj\Debug\bgcolor.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\obj\Debug\bgcolor.Form1.resources
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\obj\Debug\bgcolor.Properties.Resources.resources
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\obj\Debug\bgcolor.csproj.GenerateResource.cache
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\obj\Debug\bgcolor.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\bin\Debug\bgcolor.exe.config
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\bin\Debug\bgcolor.exe
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\bin\Debug\bgcolor.pdb
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\obj\Debug\bgcolor.exe
+D:\Study Material\11th semester\C#\Lab\Code\bgcolor\bgcolor\obj\Debug\bgcolor.pdb
