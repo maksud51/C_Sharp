@@ -1,0 +1,13 @@
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.exe
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.deps.json
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.dll
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\bin\Debug\netcoreapp3.1\List_Array.pdb
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.dll
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.pdb
+D:\Study Material\11th semester\C#\Lab\Code\List_Array\List_Array\obj\Debug\netcoreapp3.1\List_Array.genruntimeconfig.cache

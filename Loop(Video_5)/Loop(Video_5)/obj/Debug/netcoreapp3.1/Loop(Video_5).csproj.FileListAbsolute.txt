@@ -1,0 +1,14 @@
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\obj\Debug\netcoreapp3.1\Loop(Video_5).GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\obj\Debug\netcoreapp3.1\Loop(Video_5).AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\obj\Debug\netcoreapp3.1\Loop(Video_5).AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\obj\Debug\netcoreapp3.1\Loop(Video_5).csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\bin\Debug\netcoreapp3.1\Loop(Video_5).exe
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\bin\Debug\netcoreapp3.1\Loop(Video_5).deps.json
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\bin\Debug\netcoreapp3.1\Loop(Video_5).runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\bin\Debug\netcoreapp3.1\Loop(Video_5).runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\bin\Debug\netcoreapp3.1\Loop(Video_5).dll
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\bin\Debug\netcoreapp3.1\Loop(Video_5).pdb
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\obj\Debug\netcoreapp3.1\Loop(Video_5).csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\obj\Debug\netcoreapp3.1\Loop(Video_5).dll
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\obj\Debug\netcoreapp3.1\Loop(Video_5).pdb
+D:\Study Material\11th semester\C#\Lab\Code\Loop(Video_5)\Loop(Video_5)\obj\Debug\netcoreapp3.1\Loop(Video_5).genruntimeconfig.cache

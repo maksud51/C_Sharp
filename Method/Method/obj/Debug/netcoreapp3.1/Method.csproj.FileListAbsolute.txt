@@ -1,0 +1,14 @@
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\bin\Debug\netcoreapp3.1\Method.exe
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\bin\Debug\netcoreapp3.1\Method.dll
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\bin\Debug\netcoreapp3.1\Method.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\obj\Debug\netcoreapp3.1\Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\obj\Debug\netcoreapp3.1\Method.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\obj\Debug\netcoreapp3.1\Method.dll
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\obj\Debug\netcoreapp3.1\Method.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Method\Method\obj\Debug\netcoreapp3.1\Method.genruntimeconfig.cache

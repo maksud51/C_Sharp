@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop(Video_5)", "Loop(Video_5)\Loop(Video_5).csproj", "{17D683E1-0295-4992-9E1B-F909BED70D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D683E1-0295-4992-9E1B-F909BED70D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D683E1-0295-4992-9E1B-F909BED70D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D683E1-0295-4992-9E1B-F909BED70D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D683E1-0295-4992-9E1B-F909BED70D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50DC82F6-782D-48ED-A193-8CD2968791A1}
+	EndGlobalSection
+EndGlobal

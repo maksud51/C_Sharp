@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Loop(Video_5)/1.0.0": {
+        "runtime": {
+          "Loop(Video_5).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loop(Video_5)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
