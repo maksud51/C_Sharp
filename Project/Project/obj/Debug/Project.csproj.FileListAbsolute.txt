@@ -1,0 +1,10 @@
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\bin\Debug\Project.exe.config
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\bin\Debug\Project.exe
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\bin\Debug\Project.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\obj\Debug\Project.registrationUI.resources
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\obj\Debug\Project.exe
+D:\Study Material\11th semester\C#\Lab\Code\Project\Project\obj\Debug\Project.pdb
