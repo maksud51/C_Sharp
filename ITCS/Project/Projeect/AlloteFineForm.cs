@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projeect
+namespace ITCS
 {
     public partial class AlloteFineForm : Form
     {
@@ -19,15 +19,20 @@ namespace Projeect
             InitializeComponent();
         }
 
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+
         string cs = System.Configuration.ConfigurationManager.ConnectionStrings["sq"].ConnectionString;
 
-        public static string SergentUserName = LoginForm.SergentUserName;
+        public static string SergentUserName = login.SergentUserName;
         public static string SergentName;
         public static string Status = "Unknown";
 
         private void alloteButton_Click(object sender, EventArgs e)
         {
-
             Regex userNemeExp = new Regex(@"^[a-zA-Z][\w\s-]+");
             bool validUserName = userNemeExp.IsMatch(userName.Text);
 
@@ -229,7 +234,6 @@ namespace Projeect
             }
         }
 
-        //Sergent name by use Sergent Id
         public void Get_SergentName()
         {
 
@@ -257,7 +261,7 @@ namespace Projeect
         private void Back_Click(object sender, EventArgs e)
         {
             this.Hide();
-            sergentDeshboard back = new sergentDeshboard();
+            sergantDashboard back = new sergantDashboard();
             back.Show();
         }
     }

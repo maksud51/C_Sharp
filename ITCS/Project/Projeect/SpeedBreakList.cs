@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projeect
+namespace ITCS
 {
     public partial class SpeedBreakList : Form
     {
@@ -27,7 +27,7 @@ namespace Projeect
         static string PenaltyAmount = "500";
         static string Status = "Unknown";
 
-        public static string SergentUserName = LoginForm.SergentUserName;
+        public static string SergentUserName = login.SergentUserName;
         public static string SergentName;
 
         //Reset Button Text
@@ -40,8 +40,6 @@ namespace Projeect
 
         }
 
-        //GridFunction
-
         void BindGridView()
         {
             SqlConnection con = new SqlConnection(cs);
@@ -52,6 +50,41 @@ namespace Projeect
             dataGrid.DataSource = data;
             //AUTOSIZE
             dataGrid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+        }
+
+        private void dataGrid_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            if (e.RowIndex > -1 && e.ColumnIndex > -1)
+            {
+                userName.Text = dataGrid.Rows[e.RowIndex].Cells[0].Value.ToString();
+                signal.Text = dataGrid.Rows[e.RowIndex].Cells[2].Value.ToString();
+                date.Text = dataGrid.Rows[e.RowIndex].Cells[3].Value.ToString();
+
+            }
+        }
+
+        public void Get_SergentName()
+        {
+
+            SqlConnection con = new SqlConnection(cs);
+            con.Open();
+            string qurey_getSname = " Select Name from Sergent_Info  where UserName=@UserName";
+            SqlCommand cmd_getSname = new SqlCommand(qurey_getSname, con);
+            cmd_getSname.Parameters.AddWithValue("@UserName", SergentUserName);
+            SqlDataReader Type = cmd_getSname.ExecuteReader();
+
+
+            if (Type.HasRows == true)
+            {
+                Type.Read();
+                SergentName = Type[0].ToString();
+
+
+
+
+            }
+
+
         }
 
         private void takeAction_Click(object sender, EventArgs e)
@@ -122,53 +155,68 @@ namespace Projeect
             {
                 MessageBox.Show("No User Is Select", "Failed", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-
         }
 
-
-        //Data grid data selctor
-        private void dataGrid_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
+        private void dataGrid_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.RowIndex > -1 && e.ColumnIndex > -1)
-            {
-                userName.Text = dataGrid.Rows[e.RowIndex].Cells[0].Value.ToString();
-                signal.Text = dataGrid.Rows[e.RowIndex].Cells[2].Value.ToString();
-                date.Text = dataGrid.Rows[e.RowIndex].Cells[3].Value.ToString();
-
-            }
-        }
-
-
-        //Get Sergent who Assign speed breaklist
-        public void Get_SergentName()
-        {
-
-            SqlConnection con = new SqlConnection(cs);
-            con.Open();
-            string qurey_getSname = " Select Name from Sergent_Info  where UserName=@UserName";
-            SqlCommand cmd_getSname = new SqlCommand(qurey_getSname, con);
-            cmd_getSname.Parameters.AddWithValue("@UserName", SergentUserName);
-            SqlDataReader Type = cmd_getSname.ExecuteReader();
-
-
-            if (Type.HasRows == true)
-            {
-                Type.Read();
-                SergentName = Type[0].ToString();
-
-
-
-
-            }
-
 
         }
 
         private void Back_Click(object sender, EventArgs e)
         {
             this.Hide();
-            sergentDeshboard back = new sergentDeshboard();
+            sergantDashboard back = new sergantDashboard();
             back.Show();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void signal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void date_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

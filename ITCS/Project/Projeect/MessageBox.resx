@@ -118,25 +118,38 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <metadata name="guna2Elipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 173</value>
+    <value>389, 17</value>
   </metadata>
-  <metadata name="guna2Elipse6.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>141, 173</value>
+  <metadata name="guna2Elipse2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>513, 17</value>
   </metadata>
-  <metadata name="guna2Elipse7.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>265, 173</value>
-  </metadata>
-  <metadata name="guna2Elipse5.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>389, 173</value>
-  </metadata>
-  <metadata name="guna2Elipse8.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>513, 173</value>
-  </metadata>
-  <metadata name="guna2Elipse9.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>637, 173</value>
+  <metadata name="guna2Elipse3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>637, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAB3RJ
+        TUUH5gsYDgcZzwAPUwAAA3tJREFUSEutld9vTEEUx08ltrwgIsIf0KTUk6BK02V1Udtuf2hVW+36sVpS
+        1V3sQ/2KKqVa9ftBQiQID4RQv1rVKhGJROKlRRWh9SBptHdm9u663XWdmbvbSt27im7yzd3MmTmf+c6c
+        mQH+kyorQKqrnkScefvJ8kRCLXNVumTeX4vgOMK/q1Z0kApXClXVKHK6HqB/jwf6jhyYQtZkniLLFsi8
+        o16CESsMylr6mXnKVsmqOgakC2cnS4VZZ4g1IfDfgLA4iOfKtH6hntJcIMVrDpFlC32jBggrBCKZ1h4g
+        KYnMEMDbw9KLc0WICwgKDBOEOpDkeM26Tj8R59/Q/+FxIWwHo4AYZLd0s+KCq8Rm/jY8iQaIV2m+/Tlz
+        ZDcR63zDPf0dMgTo8XpKcwLB4DhWvnErgqRwEgFAhzTP3iofr4n1Xzo/nRatvIzFE9QD6UMwATq4orxp
+        H+9vugPKx3fRzMVBSf0CoDlok0/UxBHzHGDOPPAe3LOYZiT3jhzCZUvqY1udZUp7h8l/vwGUT+9NrNxZ
+        RlIXSQh46jt5ZBaeK6Cb14JcdzCGrk57MLh/w3JG3BM+c75UypvXJv+DBvDfvzVOrqzI8B2rjqOLZgPb
+        VATyscOxuGwPjQBc+pCQBkHc0Wt0dPOauIYCjS1AV9sA3cyk+ektkQBcESFcGsj8zbtrW4qUEKdBHjdD
+        4OWLiWx97g1evty53tiw/uyEb3Juaotcsy+GOlZqkLZmUHu/mrzuEvevVWckQ8gggJdpXfUM5syHgWdP
+        ogaetU1Amb433QWls8PE3CWuP4F0IUOAtFb5KAJKCoFkWECuPzQDD951b/lG18DbjujvjVh1b9vDIFHe
+        evl+hwgAfvEkIyCWlW0AXqryydpY3ORH4gqxmQlzlbiVzs5o/73boHzoGotLt53azH49kDHEkd3ou3Ru
+        OnMWDAH4KedxLlwi5iouV7reRav4OHkr3EXEvtg7MghKJLHOD+JVcUWurUpGQPPwMg2B+tHBDu9Ot4Om
+        L+nRA3CBUUAkWZoQwIenDwE/9PqJNlwivOc0Bwa5IFKdC5BljpZMJ86l9YkcB5KT8mokB+pfJCaAqwHE
+        s8WCT2SXmM0ogsIA4si5CCqeYFq6zo4b1y0CowAKAYJSQfpF6XDlNPBV7QZeggRBJCP54/86GnRQmHW+
+        f69nquQphZ9aTMYgmBtmrQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAFYAAABaCAYAAAAilKGMAAAABGdBTUEAALGPC/xhBQAAFWlJREFUeF7t
         nflTFGmax/vYmT52e2N7d2Mjtndne2aPf6B3pqNnZ2dnu+1uUVFooLgvRUHkFAVsEBUED0QRUC6VQ0Rs
@@ -233,38 +246,4 @@
         27AN27AN2zBx7I03/g9m+9a58KL0hQAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAB3RJ
-        TUUH5gsYDgcZzwAPUwAAA3tJREFUSEutld9vTEEUx08ltrwgIsIf0KTUk6BK02V1Udtuf2hVW+36sVpS
-        1V3sQ/2KKqVa9ftBQiQID4RQv1rVKhGJROKlRRWh9SBptHdm9u663XWdmbvbSt27im7yzd3MmTmf+c6c
-        mQH+kyorQKqrnkScefvJ8kRCLXNVumTeX4vgOMK/q1Z0kApXClXVKHK6HqB/jwf6jhyYQtZkniLLFsi8
-        o16CESsMylr6mXnKVsmqOgakC2cnS4VZZ4g1IfDfgLA4iOfKtH6hntJcIMVrDpFlC32jBggrBCKZ1h4g
-        KYnMEMDbw9KLc0WICwgKDBOEOpDkeM26Tj8R59/Q/+FxIWwHo4AYZLd0s+KCq8Rm/jY8iQaIV2m+/Tlz
-        ZDcR63zDPf0dMgTo8XpKcwLB4DhWvnErgqRwEgFAhzTP3iofr4n1Xzo/nRatvIzFE9QD6UMwATq4orxp
-        H+9vugPKx3fRzMVBSf0CoDlok0/UxBHzHGDOPPAe3LOYZiT3jhzCZUvqY1udZUp7h8l/vwGUT+9NrNxZ
-        RlIXSQh46jt5ZBaeK6Cb14JcdzCGrk57MLh/w3JG3BM+c75UypvXJv+DBvDfvzVOrqzI8B2rjqOLZgPb
-        VATyscOxuGwPjQBc+pCQBkHc0Wt0dPOauIYCjS1AV9sA3cyk+ektkQBcESFcGsj8zbtrW4qUEKdBHjdD
-        4OWLiWx97g1evty53tiw/uyEb3Juaotcsy+GOlZqkLZmUHu/mrzuEvevVWckQ8gggJdpXfUM5syHgWdP
-        ogaetU1Amb433QWls8PE3CWuP4F0IUOAtFb5KAJKCoFkWECuPzQDD951b/lG18DbjujvjVh1b9vDIFHe
-        evl+hwgAfvEkIyCWlW0AXqryydpY3ORH4gqxmQlzlbiVzs5o/73boHzoGotLt53azH49kDHEkd3ou3Ru
-        OnMWDAH4KedxLlwi5iouV7reRav4OHkr3EXEvtg7MghKJLHOD+JVcUWurUpGQPPwMg2B+tHBDu9Ot4Om
-        L+nRA3CBUUAkWZoQwIenDwE/9PqJNlwivOc0Bwa5IFKdC5BljpZMJ86l9YkcB5KT8mokB+pfJCaAqwHE
-        s8WCT2SXmM0ogsIA4si5CCqeYFq6zo4b1y0CowAKAYJSQfpF6XDlNPBV7QZeggRBJCP54/86GnRQmHW+
-        f69nquQphZ9aTMYgmBtmrQAAAABJRU5ErkJggg==
-</value>
-  </data>
-  <metadata name="guna2Elipse4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>761, 173</value>
-  </metadata>
-  <metadata name="guna2Elipse2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 212</value>
-  </metadata>
-  <metadata name="guna2Elipse3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>141, 212</value>
-  </metadata>
-  <metadata name="guna2Elipse10.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>265, 212</value>
-  </metadata>
 </root>

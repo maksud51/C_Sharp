@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projeect
+namespace ITCS
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Projeect
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new RegistrationForm());
+            Application.Run(new login());
         }
     }
 }

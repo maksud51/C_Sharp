@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projeect
+namespace ITCS
 {
     public partial class CheeckRegistrationForm : Form
     {
@@ -20,7 +20,6 @@ namespace Projeect
         }
 
         string cs = System.Configuration.ConfigurationManager.ConnectionStrings["sq"].ConnectionString;
-
         private void checkButton_Click(object sender, EventArgs e)
         {
             Regex userNemeExp = new Regex(@"^[a-zA-Z][\w\s-]+");
@@ -56,7 +55,7 @@ namespace Projeect
 
 
             SqlConnection con = new SqlConnection(cs);
-            string query = " select * from Driver_Info where UserName=@UserName";
+            string query = " select * from DriverTb1 where DriverName=@UserName";
             SqlCommand cmd = new SqlCommand(query, con);
             cmd.Parameters.AddWithValue("@UserName", userName.Text);
             con.Open();
@@ -84,7 +83,7 @@ namespace Projeect
         void BindGridView()
         {
             SqlConnection con = new SqlConnection(cs);
-            SqlDataAdapter sda = new SqlDataAdapter("Select * from Driver_Info where UserName = '" + userName.Text + "'", con);
+            SqlDataAdapter sda = new SqlDataAdapter("Select * from DriverTb1 where DriverName = '" + userName.Text + "'", con);
             DataTable data = new DataTable();
             sda.Fill(data);
             dataShow.DataSource = data;
@@ -92,16 +91,16 @@ namespace Projeect
             dataShow.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
         }
 
-        private void CheeckRegistrationForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void Back_Click(object sender, EventArgs e)
         {
             this.Hide();
-            sergentDeshboard back = new sergentDeshboard();
+            sergantDashboard back = new sergantDashboard();
             back.Show();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
