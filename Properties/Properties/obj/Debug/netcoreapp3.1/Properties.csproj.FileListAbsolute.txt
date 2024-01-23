@@ -1,0 +1,14 @@
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
+D:\Study Material\11th semester\C#\Lab\Code\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.AssemblyReference.cache

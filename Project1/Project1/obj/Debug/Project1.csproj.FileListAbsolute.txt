@@ -1,0 +1,5 @@
+D:\Study Material\11th semester\C#\Lab\Code\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+D:\Study Material\11th semester\C#\Lab\Code\Project1\Project1\obj\Debug\Project1.registrationFormUi.resources
+D:\Study Material\11th semester\C#\Lab\Code\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+D:\Study Material\11th semester\C#\Lab\Code\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
