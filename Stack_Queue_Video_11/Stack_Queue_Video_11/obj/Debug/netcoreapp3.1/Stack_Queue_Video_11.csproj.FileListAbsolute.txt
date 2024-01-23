@@ -1,0 +1,14 @@
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\bin\Debug\netcoreapp3.1\Stack_Queue_Video_11.exe
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\bin\Debug\netcoreapp3.1\Stack_Queue_Video_11.deps.json
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\bin\Debug\netcoreapp3.1\Stack_Queue_Video_11.runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\bin\Debug\netcoreapp3.1\Stack_Queue_Video_11.runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\bin\Debug\netcoreapp3.1\Stack_Queue_Video_11.dll
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\bin\Debug\netcoreapp3.1\Stack_Queue_Video_11.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\obj\Debug\netcoreapp3.1\Stack_Queue_Video_11.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\obj\Debug\netcoreapp3.1\Stack_Queue_Video_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\obj\Debug\netcoreapp3.1\Stack_Queue_Video_11.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\obj\Debug\netcoreapp3.1\Stack_Queue_Video_11.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\obj\Debug\netcoreapp3.1\Stack_Queue_Video_11.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\obj\Debug\netcoreapp3.1\Stack_Queue_Video_11.dll
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\obj\Debug\netcoreapp3.1\Stack_Queue_Video_11.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Stack_Queue_Video_11\Stack_Queue_Video_11\obj\Debug\netcoreapp3.1\Stack_Queue_Video_11.genruntimeconfig.cache

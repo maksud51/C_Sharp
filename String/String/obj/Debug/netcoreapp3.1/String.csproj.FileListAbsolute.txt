@@ -1,0 +1,13 @@
+D:\Study Material\11th semester\C#\Lab\Code\String\String\bin\Debug\netcoreapp3.1\String.exe
+D:\Study Material\11th semester\C#\Lab\Code\String\String\bin\Debug\netcoreapp3.1\String.deps.json
+D:\Study Material\11th semester\C#\Lab\Code\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\String\String\bin\Debug\netcoreapp3.1\String.dll
+D:\Study Material\11th semester\C#\Lab\Code\String\String\bin\Debug\netcoreapp3.1\String.pdb
+D:\Study Material\11th semester\C#\Lab\Code\String\String\obj\Debug\netcoreapp3.1\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\String\String\obj\Debug\netcoreapp3.1\String.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\String\String\obj\Debug\netcoreapp3.1\String.dll
+D:\Study Material\11th semester\C#\Lab\Code\String\String\obj\Debug\netcoreapp3.1\String.pdb
+D:\Study Material\11th semester\C#\Lab\Code\String\String\obj\Debug\netcoreapp3.1\String.genruntimeconfig.cache

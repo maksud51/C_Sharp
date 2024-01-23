@@ -1,0 +1,11 @@
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\bin\Debug\UI_Control(Video_15).exe.config
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\bin\Debug\UI_Control(Video_15).exe
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\bin\Debug\UI_Control(Video_15).pdb
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\obj\Debug\UI_Control_Video_15_.Form1.resources
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\obj\Debug\UI_Control_Video_15_.Properties.Resources.resources
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\obj\Debug\UI_Control(Video_15).csproj.GenerateResource.cache
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\obj\Debug\UI_Control(Video_15).csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\obj\Debug\UI_Control(Video_15).exe
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\obj\Debug\UI_Control(Video_15).pdb
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\obj\Debug\UI_Control(Video_15).csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\UI_Control(Video_15)\UI_Control(Video_15)\obj\Debug\UI_Control_Video_15_.Form2.resources
