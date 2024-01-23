@@ -1,0 +1,13 @@
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\bin\Debug\netcoreapp3.1\Class.exe
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\bin\Debug\netcoreapp3.1\Class.deps.json
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\bin\Debug\netcoreapp3.1\Class.dll
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\bin\Debug\netcoreapp3.1\Class.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\obj\Debug\netcoreapp3.1\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\obj\Debug\netcoreapp3.1\Class.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\obj\Debug\netcoreapp3.1\Class.dll
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\obj\Debug\netcoreapp3.1\Class.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Class\Class\obj\Debug\netcoreapp3.1\Class.genruntimeconfig.cache
