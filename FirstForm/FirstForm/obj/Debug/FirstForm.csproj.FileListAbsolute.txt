@@ -1,0 +1,11 @@
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\bin\Debug\FirstForm.exe.config
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\bin\Debug\FirstForm.exe
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\bin\Debug\FirstForm.pdb
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\obj\Debug\FirstForm.Form1.resources
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\obj\Debug\FirstForm.Maksud.resources
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\obj\Debug\FirstForm.Properties.Resources.resources
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.cache
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\obj\Debug\FirstForm.exe
+D:\Study Material\11th semester\C#\Lab\Code\FirstForm\FirstForm\obj\Debug\FirstForm.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictonary_HashTable", "Dictonary_HashTable\Dictonary_HashTable.csproj", "{D2743526-1B87-4608-B95E-F27BEF95B43C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2743526-1B87-4608-B95E-F27BEF95B43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2743526-1B87-4608-B95E-F27BEF95B43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2743526-1B87-4608-B95E-F27BEF95B43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2743526-1B87-4608-B95E-F27BEF95B43C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3F58F4F-C642-4355-BBE2-C70079008732}
+	EndGlobalSection
+EndGlobal
