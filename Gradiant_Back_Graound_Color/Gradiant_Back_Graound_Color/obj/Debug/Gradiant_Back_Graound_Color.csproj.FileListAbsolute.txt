@@ -1,0 +1,9 @@
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\bin\Debug\Gradiant_Back_Graound_Color.exe.config
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\bin\Debug\Gradiant_Back_Graound_Color.exe
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\bin\Debug\Gradiant_Back_Graound_Color.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\obj\Debug\Gradiant_Back_Graound_Color.Form1.resources
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\obj\Debug\Gradiant_Back_Graound_Color.Properties.Resources.resources
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\obj\Debug\Gradiant_Back_Graound_Color.csproj.GenerateResource.cache
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\obj\Debug\Gradiant_Back_Graound_Color.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\obj\Debug\Gradiant_Back_Graound_Color.exe
+D:\Study Material\11th semester\C#\Lab\Code\Gradiant_Back_Graound_Color\Gradiant_Back_Graound_Color\obj\Debug\Gradiant_Back_Graound_Color.pdb

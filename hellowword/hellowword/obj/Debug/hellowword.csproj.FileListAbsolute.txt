@@ -1,0 +1,7 @@
+D:\Study Material\11th semester\C#\Lab\Code\hellowword\hellowword\bin\Debug\hellowword.exe.config
+D:\Study Material\11th semester\C#\Lab\Code\hellowword\hellowword\bin\Debug\hellowword.exe
+D:\Study Material\11th semester\C#\Lab\Code\hellowword\hellowword\bin\Debug\hellowword.pdb
+D:\Study Material\11th semester\C#\Lab\Code\hellowword\hellowword\obj\Debug\hellowword.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\hellowword\hellowword\obj\Debug\hellowword.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\hellowword\hellowword\obj\Debug\hellowword.exe
+D:\Study Material\11th semester\C#\Lab\Code\hellowword\hellowword\obj\Debug\hellowword.pdb

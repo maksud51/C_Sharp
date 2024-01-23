@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If_elese_if(video_4)", "If_elese_if(video_4)\If_elese_if(video_4).csproj", "{A09D7A70-ABC8-4C35-834F-2301951BC730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09D7A70-ABC8-4C35-834F-2301951BC730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09D7A70-ABC8-4C35-834F-2301951BC730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09D7A70-ABC8-4C35-834F-2301951BC730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09D7A70-ABC8-4C35-834F-2301951BC730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1986C7-14C4-48B9-812E-286DD37659DB}
+	EndGlobalSection
+EndGlobal

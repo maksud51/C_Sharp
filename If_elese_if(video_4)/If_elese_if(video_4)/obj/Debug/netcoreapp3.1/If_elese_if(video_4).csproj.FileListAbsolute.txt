@@ -1,0 +1,14 @@
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\bin\Debug\netcoreapp3.1\If_elese_if(video_4).exe
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\bin\Debug\netcoreapp3.1\If_elese_if(video_4).deps.json
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\bin\Debug\netcoreapp3.1\If_elese_if(video_4).runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\bin\Debug\netcoreapp3.1\If_elese_if(video_4).runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\bin\Debug\netcoreapp3.1\If_elese_if(video_4).dll
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\bin\Debug\netcoreapp3.1\If_elese_if(video_4).pdb
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\obj\Debug\netcoreapp3.1\If_elese_if(video_4).csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\obj\Debug\netcoreapp3.1\If_elese_if(video_4).GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\obj\Debug\netcoreapp3.1\If_elese_if(video_4).AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\obj\Debug\netcoreapp3.1\If_elese_if(video_4).AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\obj\Debug\netcoreapp3.1\If_elese_if(video_4).csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\obj\Debug\netcoreapp3.1\If_elese_if(video_4).dll
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\obj\Debug\netcoreapp3.1\If_elese_if(video_4).pdb
+D:\Study Material\11th semester\C#\Lab\Code\If_elese_if(video_4)\If_elese_if(video_4)\obj\Debug\netcoreapp3.1\If_elese_if(video_4).genruntimeconfig.cache
