@@ -1,0 +1,14 @@
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.exe
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.deps.json
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.json
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.runtimeconfig.dev.json
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.dll
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\bin\Debug\netcoreapp3.1\Inheritence.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.dll
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.pdb
+D:\Study Material\11th semester\C#\Lab\Code\Inheritence\Inheritence\obj\Debug\netcoreapp3.1\Inheritence.genruntimeconfig.cache

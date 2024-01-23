@@ -1,0 +1,5 @@
+D:\Study Material\11th semester\C#\Lab\Code\LabTask\LabTask\obj\Debug\netcoreapp3.1\LabTask.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\LabTask\LabTask\obj\Debug\netcoreapp3.1\LabTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\11th semester\C#\Lab\Code\LabTask\LabTask\obj\Debug\netcoreapp3.1\LabTask.AssemblyInfoInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\LabTask\LabTask\obj\Debug\netcoreapp3.1\LabTask.AssemblyInfo.cs
+D:\Study Material\11th semester\C#\Lab\Code\LabTask\LabTask\obj\Debug\netcoreapp3.1\LabTask.csproj.CoreCompileInputs.cache

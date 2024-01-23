@@ -1,0 +1,10 @@
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\bin\Debug\LabTaskF.exe.config
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\bin\Debug\LabTaskF.exe
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\bin\Debug\LabTaskF.pdb
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\obj\Debug\LabTaskF.csproj.AssemblyReference.cache
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\obj\Debug\LabTaskF.GameUi.resources
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\obj\Debug\LabTaskF.Properties.Resources.resources
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\obj\Debug\LabTaskF.csproj.GenerateResource.cache
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\obj\Debug\LabTaskF.csproj.CoreCompileInputs.cache
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\obj\Debug\LabTaskF.exe
+D:\Study Material\11th semester\C#\Lab\Code\LabTaskF\LabTaskF\obj\Debug\LabTaskF.pdb
